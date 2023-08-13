@@ -1,9 +1,7 @@
 <div id="about-me" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=750&size=30&duration=5000&pause=3000&color=1890ff&center=true&vCenter=true&width=550&lines=Hello!+This+is+Hiroki+Yoshimura!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=750&size=30&duration=5000&pause=3000&color=1890ff&center=true&vCenter=true&width=550&lines=Hello!+This+is+Paul+Hodges!" alt="Typing SVG" /></a>
 </div>
 
-## Why I am following to people?
-### The reason is that I respect the dev spirit of all developers in GitHub.
 ### Visitors: <img align="center" height="30px" src="https://profile-counter.glitch.me/Superbro525Alt/count.svg" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Superbro525Alt&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 <p align="center">
