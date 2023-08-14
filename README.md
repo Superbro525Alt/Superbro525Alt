@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=750&size=30&duration=5000&pause=3000&color=1890ff&center=true&vCenter=true&width=550&lines=Hello+World!+This+is+Paul+Hodges!" alt="Typing SVG" /></a>
 </div>
 
-### Visitors: <img align="center" height="30px" src="https://profile-counter.glitch.me/Superbro525Alt/count.svg" />
+### Visitors: <div align="center"><img align="center" height="30px" src="https://profile-counter.glitch.me/Superbro525Alt/count.svg" /></div>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Superbro525Alt&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 <p align="center">
