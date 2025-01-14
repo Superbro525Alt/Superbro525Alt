@@ -1,6 +1,5 @@
 ### <div align="center"> Visitors: <div align="center"><img align="center" height="30px" src="https://profile-counter.glitch.me/Superbro525Alt/count.svg" /></div></div>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Superbro525Alt&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Superbro525Alt&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
 </p>
@@ -9,9 +8,4 @@
 <img align="center" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Superbro525Alt&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dark" alt="Superbro525Alt's Github Stats" />
 </p>
 </p>
-<div align="center" style="font-size: 25px;font-weight: 900;">
-  <a href="https://github.com/starlitnightsky">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Superbro525Alt&theme=dark" />
-  </a>
-</div>
 </section>
